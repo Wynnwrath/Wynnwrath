@@ -47,6 +47,8 @@ My favorite passion project so far. An automated interface to streamline local w
 - 🥤 Not a coffee or drink type of person.
 - 🦉 Total night owl.
 
+> "Make plans like an adult and believe in them like a child"*
+
 ---
 
 ### 🛰️ Connect
