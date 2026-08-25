@@ -1,13 +1,15 @@
-# Seth 👾
+# Hey there! 👋
 
-Software developer based in the Philippines. I build fast, functional web and mobile applications that solve real-world problems—or just whatever chaotic idea crosses my mind at 2 AM.
+I'm Seth, a software developer from the Philippines.
+
+Passionate about building apps that truly matter—or just whatever idea I come up with.
 
 ---
 
 ### 🪚 Featured Project
 
-**[JARVIS](https://github.com/YOUR_GITHUB_USERNAME/YOUR_JARVIS_REPO)** 🕹️  
-A personal favorite passion project—an automated system interface designed to streamline local workflows and experiment with native control.
+**[JARVIS](https://github.com/Wynnwrath/JARVIS)** 🕹️  
+My favorite passion project so far. An automated interface to streamline local workflows and experiment with native control.
 
 ---
 
@@ -32,22 +34,23 @@ A personal favorite passion project—an automated system interface designed to 
 ### 🪟 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wynnwrath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wynnwrath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🧭 More About Me
 
-- 📐 **Focus:** Modern frontend architecture, type-safe codebases, and snappy user interfaces.
-- 🕹️ **Off the Clock:** When I'm not debugging or tweaking UI layouts, you'll find me immersed in story-driven RPGs, tweaking system setups, or digging into philosophy.
-- ☕ **Philosophy:** Keep code clean, write purposeful software, and embrace the iteration loop.
+- 🎮 Video games are where a lot of my creativity and passion come from.
+- 🎬 Big fan of movies and series (*Interstellar* is easily the best movie).
+- 🥤 Not a coffee or drink type of person.
+- 🦉 Total night owl.
 
 ---
 
 ### 🛰️ Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seth.pinca@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sethpinca.vercel.app/)
